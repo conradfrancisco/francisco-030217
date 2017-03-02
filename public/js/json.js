@@ -1,5 +1,4 @@
-//console.log("Hello World");
-	function x(){
+function x(){
 
 		var fn = document.getElementById('fn').value
 		var sn = document.getElementById('sn').value
